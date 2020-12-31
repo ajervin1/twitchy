@@ -10,7 +10,7 @@
 					{{ time.name }}
 				</button>
 			</div>
-			<span class="badge badge-secondary badge-pill">
+			<span class="ml-2 badge badge-secondary badge-pill">
 				{{ period.toUpperCase() }}
 			</span>
 		</div>

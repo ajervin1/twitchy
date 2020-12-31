@@ -4,7 +4,7 @@
 		<PeriodFilter class="my-4"/>
 		<ClipsList/>
 		
-		<button @click="loadMore" class="btn btn-secondary mt-2 d-block mx-auto">
+		<button @click="loadMore" class="btn btn-success mt-2 d-block mx-auto">
 			Load Next Clips
 		</button>
 	</div>
